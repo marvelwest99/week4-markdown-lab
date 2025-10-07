@@ -9,3 +9,5 @@
 ### A Numbered List
 1. First step
 2. Second step
+## Partner's Contribution
+- Added my name and a new bullet point
